@@ -1,8 +1,7 @@
 Feature:
  very interesting feature
 
-  Scenario:
-    New item addition
+  Scenario: Added in Jira
     
     Given something
     When user does sth
